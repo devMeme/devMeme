@@ -1,2 +1,2 @@
 
-https://github.com/devMeme/devMeme
+https://devmeme.github.io/devMeme/
